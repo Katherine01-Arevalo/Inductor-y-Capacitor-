@@ -1,1 +1,24 @@
 # Inductor-y-Capacitor-
+
+**1.OBJETIVOS**
+
+**2. MARCO TEÓRICO**
+
+**3.DIAGRAMAS**
+
+**4.LISTA DE COMPONENTES**
+
+**5.EXPLICACIÓN**
+
+**6.APORTACIONES**
+
+**7.PREREQUISITOS**
+
+**8.MANUAL DE USUARIO**
+
+**9.CONCLUSIONES** 
+
+**10.BIBLIOGRAFÍAS**
+
+**11.ANEXOS**
+ 
