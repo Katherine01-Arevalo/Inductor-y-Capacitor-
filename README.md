@@ -66,16 +66,18 @@ Se procede a armar el circuito  en el simulador de igual manera se hace uso de  
 
 **6.APORTACIONES**
 Simulación  para una frecuencia de 1000Hz
-CAPACITO
+Circuito con capacitores 
 
 ![capacitor](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/Vrms%20f%201000.PNG)
 
 ![fecuencia](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/frecuencia%201000.PNG)
 
-BOBINA
+Circuito con bobinas
+
 ![bobinas](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/VRM1000I.png)
 
 ![BOBINA](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/VP1000I.png)
+
 PREGUNTAS
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
@@ -93,6 +95,7 @@ Los valores eficaces  del voltaje y la corriente  son los valores de voltaje y c
 
 
 **7.PREREQUISITOS**
+
 Tener presente que existe un fallo cuando se desea  simular el segundo circuito usando  los dos inductores en paralelo por lo cual se debe obtener una inductancia total para que se pueda realizar la medición.
 
 Tener presente el uso de voltímetro y amperímetro para corriente alterna.
