@@ -24,7 +24,6 @@ Específicos:
 
 ![Ind_teo_2](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/Ind_teo_2.png)
 
-**3.DIAGRAMAS**
 
 ![Capacitor_1](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/Capacitor_1.png)
 
@@ -38,7 +37,21 @@ Figura 2. Líneas de fuerza electromagnética del inductor.
 
 Figura 3. Partes del inductor.
 
+**3.DIAGRAMAS**
+
+![F1](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/figura1.PNG)
+![F2](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/figura2.PNG)
+
+
 **4.LISTA DE COMPONENTES**
+
+-	Generador de señales
+-	Fuente DC.
+-	Osciloscopio.
+-	Protoboard
+-	Multímetro
+-	Cables conductores
+-	Resistencias, bobinas y capacitores.
 
 **5.EXPLICACIÓN**
 
@@ -52,8 +65,19 @@ Se procede a armar el circuito  en el simulador de igual manera se hace uso de  
 
 
 **6.APORTACIONES**
+Simulación  para una frecuencia de 1000Hz
+CAPACITO
 
+![capacitor](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/Vrms%20f%201000.PNG)
+
+![fecuencia](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/frecuencia%201000.PNG)
+
+BOBINA
+![bobinas](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/VRM1000I.png)
+
+![BOBINA](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/VP1000I.png)
 PREGUNTAS
+
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
 En corriente continua   el capacitor se comporta como un circuito abierto(no permite el paso de corriente)  mientras que en una bobina se comporta como un cortocircuito
