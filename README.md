@@ -78,6 +78,14 @@ Circuito con bobinas
 
 ![BOBINA](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/VP1000I.png)
 
+Tablas 
+Datos del circuto con capacitores 
+
+![c](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/capacitor.PNG)
+
+Datos delcircuito con inductores
+
+![i](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/bobina.PNG)
 PREGUNTAS
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
@@ -92,6 +100,10 @@ En corriente continua   el capacitor se comporta como un circuito abierto(no per
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
  
 Los valores eficaces  del voltaje y la corriente  son los valores de voltaje y corriente  en  corriente directa 
+
+Error Relativo
+
+![error](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/error.PNG)
 
 
 **7.PREREQUISITOS**
