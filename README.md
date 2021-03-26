@@ -65,7 +65,9 @@ Se procede a armar el circuito  en el simulador de igual manera se hace uso de  
 
 
 **6.APORTACIONES**
+
 Simulación  para una frecuencia de 1000Hz
+
 Circuito con capacitores 
 
 ![capacitor](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/Vrms%20f%201000.PNG)
@@ -79,6 +81,7 @@ Circuito con bobinas
 ![BOBINA](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/VP1000I.png)
 
 Tablas 
+
 Datos del circuto con capacitores 
 
 ![c](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/capacitor.PNG)
@@ -86,6 +89,7 @@ Datos del circuto con capacitores
 Datos delcircuito con inductores
 
 ![i](https://github.com/Katherine01-Arevalo/Inductor-y-Capacitor-/blob/main/img/bobina.PNG)
+
 PREGUNTAS
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
