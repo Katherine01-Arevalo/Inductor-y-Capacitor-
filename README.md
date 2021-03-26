@@ -98,8 +98,14 @@ En corriente continua   el capacitor se comporta como un circuito abierto(no per
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
+ La bobina en corriente alterna se comporta  de la siguiente manera: aumentando el voltaje y disminuyendo la corriente dependiendo de la frecuencia 
+ 
+ Y el  capacitor en corriente alterna se comporta  de manera contraria aumentando la corriente y disminuyendo el voltaje 
+
 
 3.- ¿Qué cree usted que ocurriría con el voltaje 𝑉o y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Se generaría el mismo análisis ya que primero se encuentra el valor de la  de la  inductancia o capacitancia a continuación, el valor de la impedancia total  y obtener los valores de voltaje corriente  que irán variando, dependiendo de la frecuencia y de el inductor o capacitor que ingrese a ser analizado 
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
  
